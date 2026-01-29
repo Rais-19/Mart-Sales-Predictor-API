@@ -1,0 +1,42 @@
+# Python virtual environments
+myenv/
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (large binary)
+model/*.pkl
+*.pkl
+*.npy
+
+# Data files (large or sensitive)
+data/*.csv
+*.csv
+
+# Streamlit cache & config
+.streamlit/
+.streamlit/cache/
+.streamlit/config.toml
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+tmp/
+temp/
+
+# Deployment / build artifacts
+dist/
+build/
+*.egg-info/
