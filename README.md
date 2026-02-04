@@ -4,7 +4,6 @@
 
 **Interactive Demo (Streamlit UI)**  
 ➜ https://mart-sales-predictor-api-ui.onrender.com/
-Predict daily coffee shop revenue with a simple form.
 
 **API Endpoint (FastAPI backend)**  
 ➜ https://mart-sales-predictor-fastapi.onrender.com
