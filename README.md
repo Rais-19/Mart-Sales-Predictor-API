@@ -1,5 +1,15 @@
 # Mart Sales Predictor – Project Report
 
+## Live App
+
+**Interactive Demo (Streamlit UI)**  
+➜ https://mart-sales-predictor-api-ui.onrender.com/
+Predict daily coffee shop revenue with a simple form.
+
+**API Endpoint (FastAPI backend)**  
+➜ https://mart-sales-predictor-fastapi.onrender.com
+- OpenAPI docs: https://mart-sales-predictor-fastapi.onrender.com/docs
+- Health check: https://mart-sales-predictor-fastapi.onrender.com/health
 ## Goal of the Program
 
 **Predict future sales of individual products in different retail stores** using historical sales data.
